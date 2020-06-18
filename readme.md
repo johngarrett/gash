@@ -12,7 +12,7 @@ originally, i called these documents "scratchpads". per [some article] commands 
 - have a configurable file where you can set custom flags, directories, and search critera
 
 ## interface idas
-`gash` - open a markdown vim file in ~/gash
-`gash title` - open a markdown with `title` vim file in ~/gash
-`gash -s words` - search for files with `words` using fuzzy logic
+`gash` - open a markdown vim file in ~/gash  
+`gash title` - open a markdown with `title` vim file in ~/gash  
+`gash -s words` - search for files with `words` using fuzzy logic  
 
