@@ -11,8 +11,15 @@ originally, i called these documents "scratchpads". per [some article] commands 
 - retrieve these files using fuzzy string searching
 - have a configurable file where you can set custom flags, directories, and search critera
 
-## interface idas
+## interface ideas
 `gash` - open a markdown vim file in ~/gash  
 `gash title` - open a markdown with `title` vim file in ~/gash  
 `gash -s words` - search for files with `words` using fuzzy logic  
+
+## structure ideas
+```bash
+main.rs ------ create.rs
+      |
+      | ------ search.rs
+```
 

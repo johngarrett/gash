@@ -1,0 +1,7 @@
+[package]
+name = "gash"
+version = "0.0.1"
+authors = ["garrepi"]
+edition = "2018"
+
+[dependencies]
